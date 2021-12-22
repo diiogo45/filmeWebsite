@@ -5,7 +5,6 @@ Esse website tem como objetivo checar nome de filmes,séries é uma amostra de u
 
 
 ## - CONTRIBUIDORES - ##
-- Dica do Nerd
 - Node Studio Treinamento
 - https://fontawesome.com/
 
