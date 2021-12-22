@@ -1,0 +1,384 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+*{
+margin: 0px;
+box-sizing: border-box;
+padding: 0px;
+font-family: 'Roboto Slab', serif;
+
+}
+body{
+
+background-color: black;
+
+}
+
+h1 {
+
+text-align: center;
+background-color: white;
+
+}
+h2 {
+
+color: white;
+box-shadow: 3px 3px 3px green;
+
+}
+
+nav {
+
+background-color: orange;
+height: 50px;
+margin-top: 20px;
+
+}
+li a {
+
+color: black;
+font-weight: bold;
+
+
+}
+
+ul li {
+
+display: inline-block;
+margin-top: 10px;
+}
+
+ul li a {
+
+text-decoration: none;
+padding: 15px;
+margin: 10px;
+margin-top: 10px;
+}
+
+ul li a:hover {
+
+color: white;
+
+}
+ul ul {
+
+position: absolute;
+min-width: 20px;
+display: none;
+background-color: gray;
+}
+
+ul ul li {
+
+display: block;
+}
+
+ul li:hover ul {
+
+	display: block;
+	color: red;
+}
+
+#search {
+
+position: absolute;
+left: 775px;
+top: 70px;
+padding: 5px;
+
+}
+
+.fa-search {
+
+position: absolute;
+right:20px;
+top: 75px;
+font-size: 20px;
+
+
+}
+#img-01 {
+
+
+height: 270px;
+margin: 5px;
+margin-left: 20px;
+margin-top: 25px;
+}
+
+#img-02 {
+
+
+height: 270px;
+margin: 5px;
+margin-left: 20px;
+}
+
+#img-03 {
+
+
+height: 270px;
+margin: 5px;
+margin-left: 20px;
+}
+
+#img-04 {
+
+
+height: 265px;
+width: 200px;
+margin: 5px;
+margin-left: 20px;
+}
+
+#dexter {
+
+height: 265px;
+width: 200px;
+margin: 5px;
+margin-left: 20px;
+
+
+}
+#hawaii {
+
+height: 265px;
+width: 200px;
+margin: 5px;
+margin-left: 20px;
+
+
+}
+
+#lost {
+
+height: 265px;
+width: 200px;
+margin: 5px;
+margin-left: 20px;
+
+
+}
+
+#bigC {
+
+height: 265px;
+width: 200px;
+margin: 5px;
+margin-left: 20px;
+
+
+}
+
+
+.fa-tv  {
+
+color: white;
+font-size: 90px;
+}
+
+h3 {
+
+	color: white;
+}
+
+.fa-laptop {
+position: absolute;
+color: white;
+top: 757px;
+
+left: 185px;
+font-size: 90px;
+
+}
+
+#computadores {
+
+color: white;
+position: absolute;
+top: 850px;
+left: 170px;
+
+}
+.fa-gamepad {
+position: absolute;
+color: white;
+top: 757px;
+left: 365px;
+font-size: 90px;
+
+
+}
+
+#games {
+color: white;
+position: absolute;
+top: 850px;
+left: 385px;
+
+}
+
+
+
+.slider {
+
+margin: 50px auto;
+width: 50%;
+
+}
+.img-box img {
+
+width: 100%;
+
+}
+
+#prev {
+
+border: none;
+outline: none;
+background: #888;
+padding: 10px 30px;
+font-size: 20px;
+color: #ddd;
+cursor: pointer;
+margin: 10px auto;
+}
+
+#next {
+
+border: none;
+outline: none;
+background: #888;
+padding: 10px 30px;
+font-size: 20px;
+color: #ddd;
+cursor: pointer;
+margin: 10px auto;
+
+}
+
+#prev:hover {
+
+
+	background: #111;
+}
+
+#next:hover {
+
+
+	background: #111;
+}
+
+#img-01:hover {
+
+transform: scale(1.1);
+
+}
+
+#img-02:hover {
+
+transform: scale(1.1);
+
+}
+
+#img-03:hover {
+
+transform: scale(1.1);
+
+}
+
+#img-04:hover {
+
+transform: scale(1.1);
+
+}
+
+#dexter:hover {
+
+transform: scale(1.1);
+
+}
+
+#lost:hover {
+
+transform: scale(1.1);
+	
+}
+
+
+#bigC:hover {
+
+transform: scale(1.1);
+	
+}
+#hawaii:hover {
+
+transform: scale(1.1);
+	
+}
+
+
+
+h3 {
+
+
+margin-bottom: 20px;
+
+}
+
+.fa-facebook {
+
+color: white;
+font-size: 40px;
+margin-right: 5px;
+
+}
+
+.fa-instagram {
+color: white;
+font-size: 40px;
+margin-right: 5px;
+
+}
+
+.fa-phone {
+
+color: white;
+font-size: 40px;
+margin-right: 5px;
+
+}
+
+.fa-twitter {
+
+color: white;
+font-size: 40px;
+margin-right: 5px;
+
+}
+
+.fa-facebook:hover {
+
+color: #405DE6;
+
+
+}
+
+.fa-phone:hover {
+
+color: green;
+
+}
+
+.fa-instagram:hover {
+color: red;
+
+
+}
+
+.fa-twitter:hover {
+
+color: #405DE6;
+
+
+}
