@@ -1,6 +1,10 @@
 ## - INFORMAÇÕES SOBRE O PROJETO - ##
 
 Esse website tem como objetivo checar nome de filmes,séries é uma amostra de um slideshow mostrando todos os filmes.
+tecnologias utilizada
+- HTML
+- JAVASCRIPT
+- CSS
 
 
 
